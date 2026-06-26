@@ -7,6 +7,11 @@ zero backend required.
 
 Developed by **Yash Jain**.
 
+## 🖥️ Preview
+
+### Analytics
+![Analytics](images/preview.png)
+
 ## ✨ Features
 
 - GitHub username search with live autocomplete suggestions
